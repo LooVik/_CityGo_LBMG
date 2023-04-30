@@ -7,7 +7,7 @@ Mapbox SDK is uses in this project.
 
 Mapbox SDK is uses in this project.
 
-This games require Unity Version fo 2018.4.19f1. 
+This games require Unity Version of 2018.4.19f1. 
 
 Playtesting with deviecs MUST download the build setting. (IOS/ Andriod)
 
